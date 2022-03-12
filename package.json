@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "make-cli": "^2.0.15"
+  }
+}
